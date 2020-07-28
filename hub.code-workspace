@@ -4,10 +4,10 @@
 			"path": "."
 		},
 		{
-			"path": "../zoltpy"
+			"path": "../covid19-forecast-hub-web"
 		},
 		{
-			"path": "../covid19-forecast-hub-web"
+			"path": "../zoltpy"
 		}
 	],
 	"settings": {
